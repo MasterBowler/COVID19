@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d156f2b-8e11-45f9-bf0c-d20278bb0b5a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yhb3Zps3tPHtp54rvKDCxMSHH7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="ProgramareAvansata3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d156f2b-8e11-45f9-bf0c-d20278bb0b5a" name="Default Changelist" comment="" />
+      <created>1583397574339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583397574339</updated>
+      <workItem from="1583397576187" duration="979000" />
+      <workItem from="1583413817866" duration="2758000" />
+      <workItem from="1583499904034" duration="8788000" />
+      <workItem from="1583674509029" duration="16000" />
+      <workItem from="1583957983600" duration="3150000" />
+      <workItem from="1584043855802" duration="19024000" />
+      <workItem from="1584116496724" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" width="816" height="730" key="#Intentions" timestamp="1584044306863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" width="816" height="730" key="#Intentions/0.0.1920.1050@0.0.1920.1050" timestamp="1584044306863" />
+    <state x="1245" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1584113524578">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1245" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1584113524578" />
+    <state x="718" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583516069482">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="718" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1050@0.0.1920.1050" timestamp="1583516069482" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1583514715887">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583514715887" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1584116480141">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1584116480141" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1584116480140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1584116480140" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1584116480140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1584116480140" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1584116480140">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1584116480140" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1584044000193">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584044000193" />
+    <state x="685" y="148" key="new project wizard" timestamp="1583397659456">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="685" y="148" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1583397659456" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1583516068524">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1583516068524" />
+  </component>
+</project>
