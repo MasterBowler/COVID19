@@ -5,8 +5,8 @@ import java.util.Random;
 
 public class ProblemGenerator {
 
-    int capacity;
-    int noOfItems;
+    private int capacity;
+    private int noOfItems;
 
     ProblemGenerator(int capacity, int noOfItems) {
         this.capacity = capacity;
